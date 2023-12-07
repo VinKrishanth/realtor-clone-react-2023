@@ -70,7 +70,7 @@ export default function SignIn() {
                 Register</Link>
               </p>
               <p>
-               <Link to="/forget-password" className='text-blue-600 hover:text-blue-800 
+               <Link to="/forgot-password" className='text-blue-600 hover:text-blue-800 
                transition duration-200 ease-in-out ml-1'>Forgot Password?</Link>
               </p>
             </div>
